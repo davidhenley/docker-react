@@ -1,5 +1,7 @@
 # Docker with React
 
+[![Build Status](https://travis-ci.org/davidhenley/docker-react.svg?branch=master)](https://travis-ci.org/davidhenley/docker-react)
+
 ## Running in Development with Docker
 
 `docker-compose up --build`
